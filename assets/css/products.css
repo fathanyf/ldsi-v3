@@ -311,7 +311,7 @@
     position: fixed;
     top: 0;
     left: -300px;
-    background-color: var(--raisin-black);
+    background-color: #005eff;
     color: var(--white);
     max-width: 300px;
     width: 100%;
